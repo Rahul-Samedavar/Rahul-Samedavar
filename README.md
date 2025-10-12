@@ -2,15 +2,14 @@
 
 # 👋 Hello, I'm Rahul Samedavar
 
-### AI/ML Engineer | 7x Hackathon Winner | Multi-Agent Systems Specialist
+### AI/ML Engineer | 9x Hackathon Winner | Multi-Agent Systems Specialist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI%2FML+%26+NLP+Engineer;7x+Hackathon+Champion;Building+Autonomous+AI+Agents;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI%2FML+%26+NLP+Engineer;9x+Hackathon+Champion;Building+Autonomous+AI+Agents;Open+Source+Contributor)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-samedavar-aa3237293/)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000)](https://huggingface.co/Rahul-Samedavar)
 [![DevPost](https://img.shields.io/badge/DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rahulsamedavar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsamedavar@gmail.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) -->
 
 </div>
 
@@ -25,7 +24,7 @@ class RahulSamedavar:
         self.location = "Belagavi, Karnataka, India"
         self.education = "KLS Gogte Institute of Technology"
         self.role = "AI/ML & NLP Engineer"
-        self.achievements = ["7x Hackathon Winner", "Multi-Agent Systems Expert"]
+        self.achievements = ["9x Hackathon Winner", "Multi-Agent Systems Expert"]
         
     def current_focus(self):
         return [
@@ -52,7 +51,7 @@ class RahulSamedavar:
 
 | 🥇 First Place | 🥈 Second Place | 🥉 Third Place | 🏅 Total Wins |
 |:---:|:---:|:---:|:---:|
-| **2** | **1** | **1** | **7+** |
+| **4** | **2** | **3** | **9** |
 
 </div>
 
@@ -64,40 +63,23 @@ class RahulSamedavar:
 <tr>
 <td width="50%">
 
-### 🥇 GPT-4 Solvathon Winner
-**IEEE CS, KLS GIT**
-- Project: JustiFy AI Legal Advisor
-- Team: DevBytes
-- Achievement: Innovative GPT-4 legal solution
+### 🥇 Best AI Hack - Roo Code 25
+**Global Hackathon**
+- Achievement: Best AI Hack Award
+- Competition: International participants
+- Focus: Cutting-edge AI innovation
 
 </td>
 <td width="50%">
 
-### 🥉 FantomCode '25 (3rd Place)
-**RVITM Bangalore**
-- Project: GitGriffin Spam Detection
-- Competition: 150+ teams → 21 finalists
-- Duration: 24-hour national hackathon
+### 🥈 HackerX 6.0 (2nd Runner Up)
+**Bajaj Finserv**
+- Achievement: 2nd Runner Up
+- Category: Enterprise Innovation
+- Challenge: Fintech AI Solutions
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🥈 Code Relay Showdown
-**2nd Place**
-- Team: Rahul Samedavar & Aditya Singh
-- Focus: Competitive Programming Excellence
-
-</td>
-<td width="50%">
-
-### 🏅 DocXpert Genesis AI
-**Winner**
-- Project: AI Document Analysis System
-- Category: AI/ML Applications
-
-</td>
 </tr>
 </table>
 
@@ -124,30 +106,31 @@ class RahulSamedavar:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-[🔗 View Project](https://github.com/yourusername/taskion)
+[🔗 View Project](https://github.com/Rahul-Samedavar/taskion)
 
 </details>
 
+
 <details>
-<summary><b>⚖️ JustiFy - AI-Powered Legal Document Analyzer</b> 🥇 <i>GPT-4 Solvathon Winner</i></summary>
+<summary><b>📚 ShastraDocs-2 - Intelligent Document Processing Platform</b></summary>
 <br>
 
-> Making Indian law accessible to everyone through AI-powered analysis and multi-agent debate systems.
+> Advanced document analysis and processing system powered by AI for comprehensive document understanding.
 
 **✨ Key Features:**
-- 💬 Legal Q&A aligned with Indian law
-- 🤝 Multi-agent debate system (5 specialized legal agents)
-- 📄 Comprehensive document analysis with severity scoring
-- ✍️ Automated legal document drafting
-- 🔍 Context-aware chat support with conversation continuity
+- 📄 Multi-format document support and analysis
+- 🔍 Intelligent content extraction and summarization
+- 🤖 AI-powered insights and key information retrieval
+- 📊 Document classification and categorization
+- 💾 Efficient document management workflow
 
 **🛠️ Tech Stack:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![AI](https://img.shields.io/badge/Document_AI-FF6F00?style=flat&logo=ai&logoColor=white)
 
-[🔗 View Project](https://github.com/yourusername/justify)
+[🔗 View Project](https://github.com/Rahul-Samedavar/shastradocs-2)
 
 </details>
 
@@ -170,32 +153,10 @@ class RahulSamedavar:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-[🔗 View Project](https://github.com/yourusername/gitgriffin)
+[🔗 View Project](https://github.com/Rahul-Samedavar/gitgriffin)
 
 </details>
 
-<details>
-<summary><b>📚 ShastraDocs-2 - Intelligent Document Processing Platform</b></summary>
-<br>
-
-> Advanced document analysis and processing system powered by AI for comprehensive document understanding.
-
-**✨ Key Features:**
-- 📄 Multi-format document support and analysis
-- 🔍 Intelligent content extraction and summarization
-- 🤖 AI-powered insights and key information retrieval
-- 📊 Document classification and categorization
-- 💾 Efficient document management workflow
-
-**🛠️ Tech Stack:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AI](https://img.shields.io/badge/Document_AI-FF6F00?style=flat&logo=ai&logoColor=white)
-
-[🔗 View Project](https://github.com/yourusername/shastradocs-2)
-
-</details>
 
 <details>
 <summary><b>📝 CodeScribe - Automated Documentation Generator</b></summary>
@@ -216,7 +177,7 @@ class RahulSamedavar:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=ai&logoColor=white)
 
-[🔗 View Project](https://github.com/yourusername/codescribe)
+[🔗 View Project](https://github.com/Rahul-Samedavar/codescribe)
 
 </details>
 
@@ -239,7 +200,7 @@ class RahulSamedavar:
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-[🔗 View Project](https://github.com/yourusername/code-canvas)
+[🔗 View Project](https://github.com/Rahul-Samedavar/code-canvas)
 
 </details>
 
@@ -261,7 +222,7 @@ class RahulSamedavar:
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Medical AI](https://img.shields.io/badge/Medical_AI-00C853?style=flat&logo=ai&logoColor=white)
 
-[🔗 View Project](https://github.com/yourusername/brain-tumor-ctm)
+[🔗 View Project](https://github.com/Rahul-Samedavar/brain-tumor-ctm)
 
 </details>
 
@@ -302,17 +263,27 @@ class RahulSamedavar:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul-Samedavar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Samedavar&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Samedavar&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Samedavar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-Samedavar/Rahul-Samedavar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-Samedavar/Rahul-Samedavar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rahul-Samedavar/Rahul-Samedavar/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -320,7 +291,7 @@ class RahulSamedavar:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-Samedavar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -330,7 +301,7 @@ class RahulSamedavar:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Rahul-Samedavar&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -376,9 +347,9 @@ Belagavi, Karnataka
 <td width="33%" align="center">
 
 ### 🏆 Achievements
-**7x Hackathon Winner**  
-Multiple 1st & podium finishes  
-National-level competitions
+**9x Hackathon Winner**  
+4× First Place | 2× Second Place | 3× Third Place  
+National & International competitions
 
 </td>
 <td width="33%" align="center">
@@ -418,10 +389,10 @@ I'm passionate about working on innovative AI/ML projects, especially in:
 
 ### Let's build something amazing together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahul-samedavar)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Follow-FFD21E?style=for-the-badge)](https://huggingface.co/rahulsamedavar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-samedavar-aa3237293/)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Follow-FFD21E?style=for-the-badge)](https://huggingface.co/Rahul-Samedavar)
 [![DevPost](https://img.shields.io/badge/DevPost-Portfolio-003E54?style=for-the-badge&logo=devpost)](https://devpost.com/rahulsamedavar)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rahulsamedavar@gmail.com)
 
 ### 💬 Open to:
 ✅ Collaboration on AI/ML Projects | ✅ Hackathon Teams | ✅ Open Source Contributions  
@@ -431,7 +402,7 @@ I'm passionate about working on innovative AI/ML projects, especially in:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**⭐️ From [rahulsamedavar](https://github.com/yourusername) | Built with 💙 and ☕️**
+**⭐️ From [Rahul-Samedavar](https://github.com/Rahul-Samedavar) | Built with 💙 and ☕️**
 
 *"Building AI systems that make a difference, one project at a time."*
 
