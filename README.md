@@ -157,7 +157,7 @@ class RahulSamedavar:
 
 
 <details>
-<summary><b>📝 CodeScribe - Automated Documentation Generator🥇 <i>Roo Code '25</i></b></summary>
+<summary><b>📝 CodeScribe - Automated Documentation Generator</b>🥇 <i>Roo Code '25</i></summary>
 <br>
 
 > Intelligent documentation tool that automatically generates comprehensive documentation for Python projects.
@@ -175,35 +175,38 @@ class RahulSamedavar:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=ai&logoColor=white)
 
-[🔗 View Project](https://github.com/Rahul-Samedavar/codescribe)
+[🔗 View Project](https://github.com/Rahul-Samedavar/CodeScribe)
 
 </details>
 
 <details>
-<summary><b>🎨 Code Canvas - Interactive Code Visualization Tool</b></summary>
+<summary><b>🎨 Code Canvas - AI Text to  Visualization Tool</b> <i>💖Hobby Project</i></summary>
 <br>
 
-> Visual programming environment that transforms code into interactive, understandable diagrams.
+> <i>From words to wonders—build interactive web experiences in seconds with AI.</i>
 
 **✨ Key Features:**
-- 🖼️ Real-time code visualization and flow diagrams
-- 🔄 Interactive code execution and debugging
-- 📊 Visual representation of data structures and algorithms
-- 🎯 Educational tool for learning programming concepts
-- ✨ Intuitive drag-and-drop interface
+- 💡 AI generates interactive web apps from natural language
+- 👀 Live preview and Follow ups
+- 🤖 Supports Gemini & OpenAI models
+- 📂 File upload & asset management
+- 💾 Save sessions with version history
+- 🛡️ Safe execution with sandboxed code
+
 
 **🛠️ Tech Stack:** 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Monaco Editor](https://img.shields.io/badge/Monaco%20Editor-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=flat&logo=google&logoColor=white)
 
-[🔗 View Project](https://github.com/Rahul-Samedavar/code-canvas)
+[🔗 View Project](https://github.com/Rahul-Samedavar/CodeCanvas)
 
 </details>
 
 <details>
-<summary><b>🧠 Brain Tumor Detection CTM - Medical AI System</b></summary>
+<summary><b>🧠 Brain Tumor Detection CTM - Medical AI System</b> <i>📄Research Project</i></summary>
 <br>
 
 > Medical AI system using Contiguous Thought Machine for accurate brain tumor detection and classification.
@@ -216,11 +219,11 @@ class RahulSamedavar:
 
 **🛠️ Tech Stack:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500?style=flat&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Medical AI](https://img.shields.io/badge/Medical_AI-00C853?style=flat&logo=ai&logoColor=white)
 
-[🔗 View Project](https://github.com/Rahul-Samedavar/brain-tumor-ctm)
+[🔗 View Project](https://github.com/Rahul-Samedavar/Brain-Tumor-Detector-From-MRI-Scan)
 
 </details>
 
@@ -310,7 +313,7 @@ Belagavi, Karnataka
 <td width="33%" align="center">
 
 ### 🏆 Achievements
-**1x Hackathon Winner**  
+**7x Hackathon Winner**  
 4× First Place | 3× Third Place  
 National & International competitions
 
