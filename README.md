@@ -157,7 +157,7 @@ class RahulSamedavar:
 
 
 <details>
-<summary><b>📝 CodeScribe - Automated Documentation Generator</b></summary>
+<summary><b>📝 CodeScribe - Automated Documentation Generator🥇 <i>Roo Code '25</i></b></summary>
 <br>
 
 > Intelligent documentation tool that automatically generates comprehensive documentation for Python projects.
