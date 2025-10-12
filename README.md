@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Rahul Samedavar
 
-### AI/ML Engineer | 9x Hackathon Winner | Multi-Agent Systems Specialist
+### AI/ML Engineer | 7x Hackathon Winner | Multi-Agent Systems
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI%2FML+%26+NLP+Engineer;9x+Hackathon+Champion;Building+Autonomous+AI+Agents;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Autonomous+AI+Agents;Artificial+Intelligence;Machine+Learning;Large+Language+Models)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-samedavar-aa3237293/)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000)](https://huggingface.co/Rahul-Samedavar)
@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsamedavar@gmail.com)
 
 </div>
+
 
 ---
 
@@ -23,25 +24,21 @@ class RahulSamedavar:
         self.username = "rahulsamedavar"
         self.location = "Belagavi, Karnataka, India"
         self.education = "KLS Gogte Institute of Technology"
-        self.role = "AI/ML & NLP Engineer"
-        self.achievements = ["9x Hackathon Winner", "Multi-Agent Systems Expert"]
+        self.achievements = ["7x Hackathon Winner", "Multi-Agent Systems Expert", "Data Analysis", "Large Language Models"]
         
     def current_focus(self):
         return [
-            "🤖 Building Autonomous AI Agents",
-            "⚖️ Legal Tech & Document Intelligence",
-            "🏥 Medical AI Applications",
-            "🛠️ Developer Productivity Tools",
+            "🤖 LLM Architectures and Training",
             "🌐 Multi-Agent System Architectures"
         ]
     
     def tech_stack(self):
         return {
-            "languages": ["Python", "JavaScript", "SQL"],
-            "ai_ml": ["GPT-4", "Google Gemini", "PyTorch", "TensorFlow", "Hugging Face"],
-            "web": ["FastAPI", "Flask", "React", "Next.js"],
+            "languages": ["Python", "JavaScript", "Java", "C", "SQL"],
+            "ai_ml": ["Langchain", "LangGraph", "Open-AI", "Google Gemini", "PyTorch", "TensorFlow", "Hugging Face"],
+            "web": ["FastAPI", "Flask", "React"],
             "tools": ["Selenium", "Docker", "Git", "GitHub Actions"],
-            "specialization": ["NLP", "Computer Vision", "Multi-Agent Systems"]
+            "specialization": ["NLP", "Computer Vision", "Large Language Models", "Multi-Agent Systems"]
         }
 ```
 
@@ -51,7 +48,7 @@ class RahulSamedavar:
 
 | 🥇 First Place | 🥈 Second Place | 🥉 Third Place | 🏅 Total Wins |
 |:---:|:---:|:---:|:---:|
-| **4** | **2** | **3** | **9** |
+| **4** | **0** | **3** | **7** |
 
 </div>
 
@@ -59,18 +56,20 @@ class RahulSamedavar:
 
 ## 🎯 Recent Victories
 
-<table>
-<tr>
-<td width="50%">
+
+<div style="display: flex; flex-direction: row;">
+
+<div class="card">
 
 ### 🥇 Best AI Hack - Roo Code 25
 **Global Hackathon**
 - Achievement: Best AI Hack Award
 - Competition: International participants
-- Focus: Cutting-edge AI innovation
+- Focus: AI for ALL
 
-</td>
-<td width="50%">
+</div>
+
+<div>
 
 ### 🥈 HackerX 6.0 (2nd Runner Up)
 **Bajaj Finserv**
@@ -78,17 +77,16 @@ class RahulSamedavar:
 - Category: Enterprise Innovation
 - Challenge: Fintech AI Solutions
 
-</td>
-</tr>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
 ## 💻 Featured Projects
 
 <details open>
-<summary><b>🔨 Taskion - Autonomous AI Development Agent</b></summary>
+<summary><b>🔨 Taskion - Autonomous AI Development Agent</b> 🥉 <i>Hackrx 6.0 finale</i></summary>
 <br>
 
 > An intelligent coding assistant that autonomously browses the web, generates code, and manages GitHub workflows.
@@ -106,22 +104,22 @@ class RahulSamedavar:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-[🔗 View Project](https://github.com/Rahul-Samedavar/taskion)
+[🔗 View Project](https://github.com/Rahul-Samedavar/Taskion)
 
 </details>
 
 
 <details>
-<summary><b>📚 ShastraDocs-2 - Intelligent Document Processing Platform</b></summary>
+<summary><b>📚 ShastraDocs-2 - Enterprise Grade RAG</b> 🥉 <i>Hackrx 6.0 preliminary</i></summary>
 <br>
 
-> Advanced document analysis and processing system powered by AI for comprehensive document understanding.
+> Advanced document query answerning agent powered by Retrieval Augmented Generation.
 
 **✨ Key Features:**
 - 📄 Multi-format document support and analysis
-- 🔍 Intelligent content extraction and summarization
-- 🤖 AI-powered insights and key information retrieval
-- 📊 Document classification and categorization
+- 🔍 Hybrid Search for retrival (semantic + keyword)
+- 🤖 Agentic Decision making and analysis
+- 📊 Retrival across multiple documents
 - 💾 Efficient document management workflow
 
 **🛠️ Tech Stack:** 
@@ -130,22 +128,22 @@ class RahulSamedavar:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AI](https://img.shields.io/badge/Document_AI-FF6F00?style=flat&logo=ai&logoColor=white)
 
-[🔗 View Project](https://github.com/Rahul-Samedavar/shastradocs-2)
+[🔗 View Project](https://github.com/Rahul-Samedavar/ShastraDocs2)
 
 </details>
 
 <details>
-<summary><b>🦅 GitGriffin - GitHub Spam Detection System</b> 🥉 <i>FantomCode '25</i></summary>
+<summary><b>🦅 GitGriffin - GitHub Spam Moderation Tool</b> 🥉 <i>FantomCode '25</i></summary>
 <br>
 
-> Intelligent multi-agent system for detecting and preventing spam on GitHub repositories.
+> Intelligent multi-agent system for detecting moderationg spam on GitHub repositories.
 
 **✨ Key Features:**
-- 🛡️ Lightweight GitHub Action for automated spam detection
-- 🤖 Multi-agent AI approach for accurate classification
+- 🛡️ GitHub Action for automated spam detection
 - 💻 Desktop application for repository management
-- ⚡ React-based frontend with real-time monitoring
-- 🎯 Advanced pattern recognition and behavioral analysis
+- 🤖 Lightweight and Self improving Model
+- ⚡ Moderation speed: 7K comments per hour per repo
+- 🎯 Paralell Autonomous Execution for effortless Moderation
 
 **🛠️ Tech Stack:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -153,7 +151,7 @@ class RahulSamedavar:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-[🔗 View Project](https://github.com/Rahul-Samedavar/gitgriffin)
+[🔗 View Project](github.com/Rahul-Samedavar/GitGriffin)
 
 </details>
 
@@ -236,6 +234,7 @@ class RahulSamedavar:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -244,6 +243,7 @@ class RahulSamedavar:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=000)
+![Langchain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -253,8 +253,6 @@ class RahulSamedavar:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -297,41 +295,6 @@ class RahulSamedavar:
 
 ---
 
-## 📈 Contribution Stats
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Rahul-Samedavar&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🎯 Current Focus & Learning
-
-```mermaid
-mindmap
-  root((Rahul's Focus))
-    AI/ML Research
-      Multi-Agent Systems
-      Autonomous AI Agents
-      LLM Fine-tuning
-    Development
-      Legal Tech Solutions
-      Medical AI Applications
-      Developer Tools
-    Community
-      Open Source Contributions
-      Hackathon Participation
-      Technical Writing
-    Learning
-      Advanced NLP
-      MLOps & Deployment
-      System Design
-```
-
----
-
 ## 💼 Professional Highlights
 
 <table>
@@ -347,39 +310,13 @@ Belagavi, Karnataka
 <td width="33%" align="center">
 
 ### 🏆 Achievements
-**9x Hackathon Winner**  
-4× First Place | 2× Second Place | 3× Third Place  
+**1x Hackathon Winner**  
+4× First Place | 3× Third Place  
 National & International competitions
-
-</td>
-<td width="33%" align="center">
-
-### 🌟 Specialization
-**Multi-Agent AI Systems**  
-Legal Tech & Medical AI  
-Developer Productivity Tools
 
 </td>
 </tr>
 </table>
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm passionate about working on innovative AI/ML projects, especially in:
-
-<div align="center">
-
-| Domain | Interest Areas |
-|:------:|:--------------|
-| 🤖 **AI Agents** | Autonomous systems, Multi-agent architectures, LLM applications |
-| ⚖️ **Legal Tech** | Document intelligence, Legal AI, Compliance automation |
-| 🏥 **Medical AI** | Diagnostic systems, Medical imaging, Healthcare automation |
-| 🛠️ **Dev Tools** | Productivity tools, Code automation, Documentation systems |
-| 🌐 **Open Source** | Contributing to impactful projects, Community building |
-
-</div>
 
 ---
 
