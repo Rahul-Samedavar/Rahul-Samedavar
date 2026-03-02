@@ -63,9 +63,9 @@ class RahulSamedavar:
 
 
 ### 🥇 2nd Runner Up - Convolve 4.0 Hackathon
-**Global Hackathon**
+**Pan IIT Hackathon**
 - Achievement: Best AI Hack Award
-- Competition: Pan IIT hackathon
+- Competition: Pan IIT Students
 - Focus: AI for ALL
 
 ### 🥇 Best AI Hack - Roo Code 25
