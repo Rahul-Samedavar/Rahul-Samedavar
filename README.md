@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Rahul Samedavar
 
-### AI/ML Engineer | 7x Hackathon Winner | Multi-Agent Systems
+### AI/ML Engineer | 9x Hackathon Winner | Multi-Agent Systems
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+Autonomous+AI+Agents;Artificial+Intelligence;Machine+Learning;Large+Language+Models)](https://git.io/typing-svg)
 
@@ -48,7 +48,7 @@ class RahulSamedavar:
 
 | 🥇 First Place | 🥈 Second Place | 🥉 Third Place | 🏅 Total Wins |
 |:---:|:---:|:---:|:---:|
-| **4** | **0** | **3** | **7** |
+| **4** | **1** | **4** | **9** |
 
 </div>
 
@@ -60,6 +60,13 @@ class RahulSamedavar:
 <div style="display: flex; flex-direction: row;">
 
 <div class="card">
+
+
+### 🥇 2nd Runner Up - Convolve 4.0 Hackathon
+**Global Hackathon**
+- Achievement: Best AI Hack Award
+- Competition: Pan IIT hackathon
+- Focus: AI for ALL
 
 ### 🥇 Best AI Hack - Roo Code 25
 **Global Hackathon**
