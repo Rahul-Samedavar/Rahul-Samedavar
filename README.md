@@ -24,7 +24,7 @@ class RahulSamedavar:
         self.username = "rahulsamedavar"
         self.location = "Belagavi, Karnataka, India"
         self.education = "KLS Gogte Institute of Technology"
-        self.achievements = ["7x Hackathon Winner", "Multi-Agent Systems Expert", "Data Analysis", "Large Language Models"]
+        self.achievements = ["9x Hackathon Winner", "Multi-Agent Systems Expert", "Data Analysis", "Large Language Models"]
         
     def current_focus(self):
         return [
