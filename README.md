@@ -42,6 +42,12 @@ An original detection architecture: it fuses a handcrafted texture-anomaly prior
 Instead of keeping it as a research script, I extended the open-source **Ultralytics** codebase to support it. I forked the framework and added custom neural-network modules and YAML model-parsing logic, so the architecture is a native, configurable model that trains with the framework's own tooling. I also built lossless pretrained-weight transfer from standard YOLO, so only the new layers start from scratch. Tested on crack detection. [Details →](https://github.com/Rahul-Samedavar/ultralytics/blob/main/docs/prior-guided-fusion/README.md)
 *Python · PyTorch · Ultralytics · YOLOv8/v12*
 
+### [Hack To Future 3.0 Backend](https://github.com/Rahul-Samedavar/HTF3-Backend) · backend for a 650+ user national hackathon
+Built and deployed solo: JWT auth, rate limiting, and **reliable PostgreSQL transactions** that kept registrations and event data consistent under heavy load. Its email OTP system is triggered through **Google Apps Script** and round-robins across multiple **.edu email accounts**, delivering **4,500 OTPs/day at zero cost**. Ran on a DigitalOcean droplet behind Nginx.
+*Node.js · Express · PostgreSQL · Nginx · DigitalOcean* · [Frontend →](https://hacktofuture3.git.edu/)
+
+**More:** [Fasal-Mitra](https://github.com/Rahul-Samedavar/Fasal-Mitra) · [Brain Tumor Detection from MRI](https://github.com/Rahul-Samedavar/Brain-Tumor-Detector-From-MRI-Scan) (research) · [CodeCanvas](https://github.com/Rahul-Samedavar/CodeCanvas) (hobby) and other repos..
+
 ### [ShastraDocs v2](https://github.com/Rahul-Samedavar/ShastraDocs2) · RAG over multiple documents
 🏆 Hackrx 6.0 preliminary round
 
@@ -66,11 +72,18 @@ A desktop app that cleans spam out of GitHub Discussions, Issues and Pull Reques
 It also **learns from you**: unhiding a comment counts as a false positive and hiding a missed one counts as a false negative, and those corrections incrementally fine-tune the model to your repo.
 *Python · Naive Bayes · GitHub GraphQL API · GitHub OAuth*
 
-### [Hack To Future 3.0 Backend](https://github.com/Rahul-Samedavar/HTF3-Backend) · backend for a 650+ user national hackathon
-Built and deployed solo: JWT auth, rate limiting, and **reliable PostgreSQL transactions** that kept registrations and event data consistent under heavy load. Its email OTP system is triggered through **Google Apps Script** and round-robins across multiple **.edu email accounts**, delivering **4,500 OTPs/day at zero cost**. Ran on a DigitalOcean droplet behind Nginx.
-*Node.js · Express · PostgreSQL · Nginx · DigitalOcean* · [Frontend →](https://hacktofuture3.git.edu/)
+### Aura 2026 · official tech fest apps, 14,000+ live users
+*(private repo)*
 
-**More:** [Fasal-Mitra](https://github.com/Rahul-Samedavar/Fasal-Mitra) · [Brain Tumor Detection from MRI](https://github.com/Rahul-Samedavar/Brain-Tumor-Detector-From-MRI-Scan) (research) · [CodeCanvas](https://github.com/Rahul-Samedavar/CodeCanvas) (hobby) and other repos..
+Built 4 production apps for the college's official tech fest: participants, admin, PR and secure entry management. Used live by **14,000+ users**, including entry at the **Mohit Chauhan concert**.
+
+- **Fast, secure entry:** encrypted concert-pass QR scanning, with a custom QR optimization that cut average scan time from **8s to 1s (8x faster)** and kept entry lines moving.
+- **Cyberpunk-themed UI** with a 3D animated gyroscopic background, plus configurable settings for performance and theme.
+- **Event notification alerts** for live updates.
+- **Built to go easy on the backend and on mobile data:** async storage, caching, and fetching only when data has changed.
+- **Screenshot and screen-recording prevention** on the secure screens.
+
+*React Native · Expo · Async Storage*
 
 ---
 
